@@ -21,7 +21,7 @@ geographiclib==1.49
 geopy==1.18.1
 gunicorn==19.9.0
 idna==2.8
-lxml==4.3.0
+lxml==4.9.1
 mando==0.6.4
 mccabe==0.6.1
 more-itertools==5.0.0
